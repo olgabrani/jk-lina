@@ -1,0 +1,10 @@
+    <div class="social-icons">
+        <ul>
+            {% for s in site.data.socials %}
+                <li class="{{s.cls}}">
+                    <a href="{{s.url}}" title="{{s.title}}">&nbsp;</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+

@@ -1,0 +1,24 @@
+<header class="header">
+
+    {% include social.html %}
+    <h1>
+        <a href="/" title="hompepage">
+            <img src="/static/images/logo.png" alt="" />
+        </a>
+    </h1>
+
+</header>
+
+<div class="menu">
+    <ul>
+        {% for p in site.data.nav %}
+            {% if page.url == p.url %}
+            <li class="current">
+            {% else %}
+            <li>
+            {% endif %}
+                <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>

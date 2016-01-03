@@ -1,0 +1,14 @@
+- url: '/'
+  title: ΤΟ ΓΡΑΦΕΙΟ
+- url: '/viografiko/'
+  title: ΒΙΟΓΡΑΦΙΚΟ
+
+- url: '/tomeis-dikaiou/'
+  title: ΤΟΜΕΙΣ ΔΙΚΑΙΟΥ
+
+- url: '/synergates/'
+  title: ΣΥΝΕΡΓΑΤΕΣ
+- url: '/contact/'
+  title: ΕΠΙΚΟΙΝΩΝΙΑ
+- url: '/links/'
+  title: ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ

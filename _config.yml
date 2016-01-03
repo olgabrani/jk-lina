@@ -1,0 +1,10 @@
+# Site settings
+title: Δικηγορικό γραφείο Λίνας Παρασκευοπούλου
+email: angelinapar@yahoo.gr
+description: "Δικηγόρος Πατήσια, διαζύγια, διατροφές, επιμέλεια τέκνων, ασφαλιστικές διαφορές, διαμεσολαβήσεις, μήνυση, απαιτήσεις επιταγων, απαιτήσεις συναλλαγματικών, απαιτήσεις τιμολογίων, μισθωτικές διαφορές,  έξωση, υπερχρεωμένα νοικοκυριά,"
+baseurl: ""
+url: "http://paraskevopoulou-law.gr/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
