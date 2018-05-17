@@ -4,7 +4,7 @@ layout: default
 
 <div class="cv">
     <div class="top clearfix">
-        <img src="/static/images/1421.JPG" alt="" class="img half">
+        <img src="/static/images/lina.png" alt="" class="img half">
         <h2><h1>Aγγελίνα Παρασκευοπούλου</h1>
 <p><em>Δικηγόρος Παρ' Αρείω Πάγω- LLM<br>Διαπιστευμένη Διαμεσολαβήτρια</em></p></h2>
     </div>
